@@ -21,8 +21,7 @@
     cursor: pointer;
     padding: 1.85rem 3rem;
     border-radius: 10rem;
-    transition-property: transform;
-    transition-duration: 0.2s;
+    transition: transform 0.2s;
     &:hover {
         transform: scale(1.15);
     }
