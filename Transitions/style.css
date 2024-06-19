@@ -1,0 +1,29 @@
+
+
+.container {
+    border: 2px solid skyblue;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 20px;
+    min-height: 150px;
+    display: flex;
+    justify-content: center; 
+}
+
+.btn {
+    width: 50%;
+    height: 80%;
+    display: flex; /* dans chrome il y a un outil graphique pour paramétrer le display flex (très pratique) */
+    justify-content: center; 
+    background: #011c37;
+    color: #15DEA5;
+    font-size: 3rem;
+    cursor: pointer;
+    padding: 1.85rem 3rem;
+    border-radius: 10rem;
+    transition-property: transform;
+    transition-duration: 0.2s;
+    &:hover {
+        transform: scale(1.15);
+    }
+}
