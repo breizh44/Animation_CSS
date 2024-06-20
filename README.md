@@ -30,3 +30,4 @@ https://openclassrooms.com/fr/courses/5919246-creez-des-animations-css-modernes/
 On compte plus de 50 pseudoclasses
 
 Remarque : utilisation des sélecteurs imbriqués pas claire => à creuser ! (https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_nesting/Using_CSS_nesting)
+https://www.codeur.com/tuto/css/selecteurs-css/
